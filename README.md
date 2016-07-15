@@ -9,4 +9,4 @@ is called iPTorrents so IPs should be public
 xD
 ```
 
-Peers iPs: https://github.com/IPTorrents/iPTorrents-Peers-v2
+Peers iPs: https://iptorrents-peers.crypt.cat/
